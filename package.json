@@ -1,7 +1,6 @@
 {
   "name": "Javascript-Webpack",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,5 +23,15 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyalextreme/webpack-basic-setup-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soyalextreme/webpack-basic-setup-guide/issues"
+  },
+  "homepage": "https://github.com/soyalextreme/webpack-basic-setup-guide#readme",
+  "description": ""
 }
